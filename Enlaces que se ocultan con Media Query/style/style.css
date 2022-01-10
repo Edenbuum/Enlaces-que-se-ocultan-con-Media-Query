@@ -4,8 +4,10 @@ li{
     display:inline;
     border: solid 2px black;
     padding:10px 50px;
+}
+li>a{
+    text-decoration: none;
     color:grey;
-    text-decoration:none;
 }
 li:hover{
     cursor: pointer;
