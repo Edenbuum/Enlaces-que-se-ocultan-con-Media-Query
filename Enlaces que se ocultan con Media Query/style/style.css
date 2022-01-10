@@ -5,6 +5,7 @@ li{
     border: solid 2px black;
     padding:10px 50px;
     color:grey;
+    text-decoration:none;
 }
 li:hover{
     cursor: pointer;
